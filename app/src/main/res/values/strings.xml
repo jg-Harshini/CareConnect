@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">CareConnect</string>
+    <string name="find_my_way">Find My Way</string>
+    <string name="you_are_here">You are here</string>
+    <string name="oak_street_park">Oak Street Park</string>
+    <string name="distance_to_home">0.3 mi</string>
+    <string name="to_home">to home</string>
+    <string name="show_me_home">Show Me Home</string>
+    <string name="im_home_safe">I\'m Home Safe</string>
+    <string name="location_sharing_on">Location Sharing On</string>
+    <string name="family_can_see_you">Family can see you</string>
+
+    <string name="caregiver_dashboard">Caregiver Dashboard</string>
+    <string name="monitoring_sarah">Monitoring Sarah Johnson</string>
+    <string name="all_safe">All Safe</string>
+    <string name="no_alerts_today">No alerts today</string>
+    <string name="location">Location</string>
+    <string name="at_home">At Home</string>
+    <string name="safe_zone">Safe zone</string>
+    <string name="activity">Activity</string>
+    <string name="normal">Normal</string>
+    <string name="active_today">Active today</string>
+    <string name="meds">Meds</string>
+    <string name="meds_value">2/3</string>
+    <string name="taken_today">Taken today</string>
+    <string name="vitals">Vitals</string>
+    <string name="good">Good</string>
+    <string name="vitals_value">120/80</string>
+    <string name="recent_activity">Recent Activity</string>
+    <string name="medication_taken">Medication taken</string>
+    <string name="time_ago">15 minutes ago</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="safety">Safety</string>
+    <string name="reports">Reports</string>
+    <string name="alerts">Alerts</string>
+
+    <string name="safety_zones">Safety Zones</string>
+    <string name="geofence_monitoring">Geofence monitoring</string>
+    <string name="patient_within_safe_zones">Patient within safe\nzones</string>
+    <string name="active_safe_zones">Active Safe Zones</string>
+    <string name="home">Home</string>
+    <string name="home_address">123 Oak Street, radius 500ft</string>
+    <string name="active">Active</string>
+    <string name="oakwood_park">Oakwood Park</string>
+    <string name="oakwood_address">456 Park Avenue, radius 300ft</string>
+    <string name="inactive">Inactive</string>
+    <string name="community_center">Community Center</string>
+    <string name="community_address">789 Main Street, radius 400ft</string>
+    <string name="inside">Inside</string>
+    <string name="outside">Outside</string>
+</resources>

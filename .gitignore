@@ -1,0 +1,38 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local config
+local.properties
+
+# IDE (Android Studio)
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated files
+captures/
+.externalNativeBuild/
+
+# Keystore (IMPORTANT - security)
+*.jks
+*.keystore
+
+# Kotlin
+.kotlin/
+
+# Navigation Safe Args
+.navigation/
+
+# Google Services (if added later)
+google-services.json
+
+# Misc
+.cxx/
